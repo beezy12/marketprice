@@ -1,0 +1,4 @@
+config.py
+testconfig.py
+__pycache__
+*.pyc
